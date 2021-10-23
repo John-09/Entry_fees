@@ -1,0 +1,22 @@
+.center{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    /*cursor: pointer;*/
+    
+}
+
+.free{
+    padding-bottom: 20px;
+  /*  cursor: pointer;*/
+    width: 17px; 
+    height: 17px;
+    
+   
+}
+
+.Free{
+    padding-right: 5px;
+}
+
+

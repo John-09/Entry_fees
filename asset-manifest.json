@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Entry_fees/static/css/main.15b75bda.chunk.css",
+    "main.js": "/Entry_fees/static/js/main.f7cb3a79.chunk.js",
+    "main.js.map": "/Entry_fees/static/js/main.f7cb3a79.chunk.js.map",
+    "runtime-main.js": "/Entry_fees/static/js/runtime-main.b2484b18.js",
+    "runtime-main.js.map": "/Entry_fees/static/js/runtime-main.b2484b18.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Entry_fees/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.e140d8da.chunk.js": "/Entry_fees/static/js/2.e140d8da.chunk.js",
+    "static/js/2.e140d8da.chunk.js.map": "/Entry_fees/static/js/2.e140d8da.chunk.js.map",
+    "static/js/3.e38724b7.chunk.js": "/Entry_fees/static/js/3.e38724b7.chunk.js",
+    "static/js/3.e38724b7.chunk.js.map": "/Entry_fees/static/js/3.e38724b7.chunk.js.map",
+    "index.html": "/Entry_fees/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Entry_fees/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.15b75bda.chunk.css.map": "/Entry_fees/static/css/main.15b75bda.chunk.css.map",
+    "static/js/2.e140d8da.chunk.js.LICENSE.txt": "/Entry_fees/static/js/2.e140d8da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2484b18.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.e140d8da.chunk.js",
+    "static/css/main.15b75bda.chunk.css",
+    "static/js/main.f7cb3a79.chunk.js"
+  ]
+}
